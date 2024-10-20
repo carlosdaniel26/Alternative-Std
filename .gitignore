@@ -21,4 +21,5 @@ obj/
 
 *.log
 
+alt_std
 main.c
