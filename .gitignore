@@ -18,3 +18,5 @@ obj/
 .idea/
 
 *.log
+
+main.c
