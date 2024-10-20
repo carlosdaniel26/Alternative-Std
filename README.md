@@ -66,8 +66,6 @@
 | `alt_lstiter`      | Apply function to the content of all list elements. |
 | `alt_lstmap`       | Apply function to the content of all list elements into a new list. |
 
-## NORMINETTE
-
 ```
 - No for, do...while, switch, case, goto, ternary operators, or variable-length arrays allowed;
 - Each function must be a maximum of 25 lines, not counting the function's curly brackets;
