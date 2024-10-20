@@ -1,0 +1,1 @@
+int	alt_isalpha(int c);
